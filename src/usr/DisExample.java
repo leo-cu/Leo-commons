@@ -13,13 +13,13 @@ public class DisExample {
 
     public static void main(String[] args) {
 
-        System.out.printf("Hello and welcome!");
+        /*System.out.printf("Hello and welcome!");
 
         // Press Ctrl+R or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
             System.out.println("i = " + i);
-        }
+        }*/
 
         double pr =0.0;
         double price=0.9;
